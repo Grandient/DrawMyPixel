@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DrawMyPixel/static/css/main.c3fa56cf.chunk.css",
+    "main.js": "/DrawMyPixel/static/js/main.478ab7b0.chunk.js",
+    "main.js.map": "/DrawMyPixel/static/js/main.478ab7b0.chunk.js.map",
+    "runtime-main.js": "/DrawMyPixel/static/js/runtime-main.9fb5dd19.js",
+    "runtime-main.js.map": "/DrawMyPixel/static/js/runtime-main.9fb5dd19.js.map",
+    "static/css/2.f502beb6.chunk.css": "/DrawMyPixel/static/css/2.f502beb6.chunk.css",
+    "static/js/2.80208f41.chunk.js": "/DrawMyPixel/static/js/2.80208f41.chunk.js",
+    "static/js/2.80208f41.chunk.js.map": "/DrawMyPixel/static/js/2.80208f41.chunk.js.map",
+    "index.html": "/DrawMyPixel/index.html",
+    "precache-manifest.ac6b8b08534353422660872eb6b4d4a5.js": "/DrawMyPixel/precache-manifest.ac6b8b08534353422660872eb6b4d4a5.js",
+    "service-worker.js": "/DrawMyPixel/service-worker.js",
+    "static/css/2.f502beb6.chunk.css.map": "/DrawMyPixel/static/css/2.f502beb6.chunk.css.map",
+    "static/css/main.c3fa56cf.chunk.css.map": "/DrawMyPixel/static/css/main.c3fa56cf.chunk.css.map",
+    "static/js/2.80208f41.chunk.js.LICENSE.txt": "/DrawMyPixel/static/js/2.80208f41.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/DrawMyPixel/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fb5dd19.js",
+    "static/css/2.f502beb6.chunk.css",
+    "static/js/2.80208f41.chunk.js",
+    "static/css/main.c3fa56cf.chunk.css",
+    "static/js/main.478ab7b0.chunk.js"
+  ]
+}
